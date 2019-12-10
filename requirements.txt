@@ -1,0 +1,11 @@
+enum-compat==0.0.2
+lxml==4.4.1
+pexpect==4.7.0
+pkg-resources==0.0.0
+ptyprocess==0.6.0
+py==1.8.0
+pycrypto==2.6.1
+pygatt==4.0.3
+pyserial==3.4
+pyshark==0.4.2.9
+scapy==2.4.3
