@@ -1,5 +1,5 @@
 enum-compat==0.0.2
-lxml==4.4.1
+lxml==4.6.3
 pexpect==4.7.0
 pkg-resources==0.0.0
 ptyprocess==0.6.0
